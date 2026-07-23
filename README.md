@@ -2,6 +2,10 @@
 
 A simple Python application that automatically generates a digital ID card using **OpenCV**. The program takes user information such as name, ID, department, position, and a personal photo, then places them onto a predefined ID card template to produce a complete, ready-to-use employee card.
 
+## Demo
+
+![ID Card Demo](Output.png)
+
 ## Features
 
 * Read and process images using OpenCV.
